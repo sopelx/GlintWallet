@@ -14,7 +14,7 @@ Glint is a minimalist browser-based Web3 wallet. No installs. No tracking. Just 
 
 ## Demo
 
-Try it out: [https://glint-wallet.vercel.app](https://glint-wallet.vercel.app)
+Try it out: [https://glint-wallet.vercel.app](https://glintwallet.sopel.codes)
 
 ## Screenshots
 
